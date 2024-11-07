@@ -1,6 +1,6 @@
 {
-  "name": "Alexa(main)",
-  "description": "Simple Whatsapp Bot.You Can Esy Deploy📲",
+  "name": "King_Ash-Md(main)",
+  "description": "Simple Whatsapp Bot.You Can Easy Deploy📲",
   "logo": "Empty",
   "keywords": ["nodejs", "bot", "whatsapp bot", "multi device"],
   "success_url": "/",
@@ -17,7 +17,7 @@
             "url": "https://github.com/heroku/heroku-buildpack-nodejs.git"
         }
      ],
-  "stack": "heroku-22"
+  "stack": "heroku-24"
   
   
 }
